@@ -1,1 +1,3 @@
 # TransUNet
+以ResNet为主干接Vision Transformer用于特征提取，解码器用寻常的二倍逐次上采样
+模型重量大概在450MB上下，预训练模型短期内暂时无法提供，训练太烧钱了
